@@ -53,7 +53,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 0,
-    "versionPublish": "5.9.8"
+    "versionPublish": "5.9.6"
   },
   "pages": {
     "index.html": {
