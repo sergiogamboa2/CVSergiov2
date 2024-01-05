@@ -582,9 +582,6 @@ a:hover {
   color: #7dc4d6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
-}
 .form-control {
   font-family: 'Inter', sans-serif;
   font-size: 1rem;
@@ -1132,6 +1129,7 @@ a {
 .cid-ssJVKYrZU0 .name {
   margin-bottom: 8px;
   font-size: 20px;
+  text-align: left;
 }
 .cid-ssJVKYrZU0 .progress {
   margin-bottom: 30px;
